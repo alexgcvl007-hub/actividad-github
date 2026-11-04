@@ -1,2 +1,2 @@
 def get_name():
-    return input("Por favor, alexandre gimeno castro: ")
+    return input("Dev2: Introduce tu nombre: ")
