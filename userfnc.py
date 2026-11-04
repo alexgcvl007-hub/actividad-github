@@ -1,2 +1,2 @@
-def ask_name():
-    return input("alexandre gimeno castro ")
+def get_name():
+    return input("Por favor, alexandre gimeno castro: ")
